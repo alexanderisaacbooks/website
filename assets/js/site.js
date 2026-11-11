@@ -13,19 +13,19 @@
 */
 var SITE = {
   // The Kit form that every sign-up on the site goes through.
-  kitFormId: 'KIT_FORM_ID',
+  kitFormId: '10174320',
 
   genres: [
-    { id: 'scifi', label: 'Science fiction',         short: 'science fiction', tag: 'TAG_SCIFI' },
-    { id: 'psych', label: 'Psychological thrillers', short: 'psychological', family: 'thrillers', tag: 'TAG_PSYCH' },
-    { id: 'super', label: 'Supernatural thrillers',  short: 'supernatural',  family: 'thrillers', tag: 'TAG_SUPER' }
+    { id: 'scifi', label: 'Science fiction',         short: 'science fiction', tag: '25712266' },
+    { id: 'psych', label: 'Psychological thrillers', short: 'psychological', family: 'thrillers', tag: '25716163' },
+    { id: 'super', label: 'Supernatural thrillers',  short: 'supernatural',  family: 'thrillers', tag: '25716458' }
   ],
 
   // "Email me when it's out" for one particular book. Delete a line once that
   // book is out and its release email has gone.
   books: {
-    'in-the-system':       { title: 'In The System',       tag: 'TAG_BOOK_ITS' },
-    'handle-with-caution': { title: 'Handle With Caution', tag: 'TAG_BOOK_HWC' }
+    'in-the-system':       { title: 'In The System',       tag: '25716656' },
+    'handle-with-caution': { title: 'Handle With Caution', tag: '25716728' }
   }
 };
 
